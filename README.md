@@ -1,6 +1,6 @@
 # jpa01-nrrevell
 
-Deployed at: http://jpa01-nrrevell.dokku-11.cs.ucsb.edu/
+Deployed at: http://jpa01-nrrevell.dokku-11.cs.ucsb.edu
 
 
 # About this repo
